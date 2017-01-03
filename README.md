@@ -2,4 +2,4 @@
 Facebook
 Google
 Twittwer
-#Using tasttypie depoly some api with format=json
+#Using tastypie deploy some api with format=json
